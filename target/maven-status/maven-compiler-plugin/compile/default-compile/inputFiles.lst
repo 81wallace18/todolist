@@ -1,0 +1,10 @@
+/home/wallace/Projects/todolist/src/main/java/com/wallace/todolist/utils/Utils.java
+/home/wallace/Projects/todolist/src/main/java/com/wallace/todolist/user/UserModel.java
+/home/wallace/Projects/todolist/src/main/java/com/wallace/todolist/filter/FilterTaskAuth.java
+/home/wallace/Projects/todolist/src/main/java/com/wallace/todolist/user/IUserRepository.java
+/home/wallace/Projects/todolist/src/main/java/com/wallace/todolist/TodolistApplication.java
+/home/wallace/Projects/todolist/src/main/java/com/wallace/todolist/errors/ExceptionHandlerContrller.java
+/home/wallace/Projects/todolist/src/main/java/com/wallace/todolist/task/TaskController.java
+/home/wallace/Projects/todolist/src/main/java/com/wallace/todolist/user/UserController.java
+/home/wallace/Projects/todolist/src/main/java/com/wallace/todolist/task/ITaskRepository.java
+/home/wallace/Projects/todolist/src/main/java/com/wallace/todolist/task/TaskModel.java
